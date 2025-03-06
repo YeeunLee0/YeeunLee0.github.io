@@ -35,8 +35,11 @@ sidebar-category:
       - title: "▪️ SQL"
         url: "/SQL"
         category: "SQL"
-  - title: "🌍 Careers"
+  - title: "🧰 Storage"
     children:
-      - title: "▪️ 이모저모"
+      - title: "▪️ Careers"
+        url: "/Careers"
+        category: "Careers"
+      - title: "▪️ etc"
         url: "/etc"
         category: "etc"
