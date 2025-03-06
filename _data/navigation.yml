@@ -19,24 +19,24 @@ main:
   - title: "GitHub"
     url: https://github.com/yeeunlee0 # 깃허브 바로가기 (본인 깃허브로 변경)
 sidebar-category:
-  - title: "🐱 AI"
+  - title: "📌 AI"
     children:
-      - title: "CV"
+      - title: "▪️ CV"
         url: "/CV"
         category: "CV"
-      - title: "LLM"
+      - title: "▪️ LLM"
         url: "/LLM"
         category: "LLM"
-      - title: "Multimodal"
+      - title: "▪️ Multimodal"
         url: "/Multimodal"
         category: "Multimodal"
-  - title: "🐱 Data Engineering"
+  - title: "📌 Data Engineering"
     children:
-      - title: "SQL"
+      - title: "▪️ SQL"
         url: "/SQL"
         category: "SQL"
   - title: "🌍 Careers"
     children:
-      - title: "이모저모"
+      - title: "▪️ 이모저모"
         url: "/etc"
         category: "etc"
