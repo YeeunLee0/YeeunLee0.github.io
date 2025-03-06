@@ -1,7 +1,7 @@
 ---
-title: "🧰 Storage / etc"
+title: "🧰 Storage / Etc"
 layout: category
-permalink: /Storage/etc/
+permalink: /Storage/Etc/
 author_profile: true
 sidebar_main: true
 types: posts
