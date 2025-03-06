@@ -1,7 +1,7 @@
 # main links
-main:
-  - title: "Categories"
-    url: /categories/
+# main:
+#   - title: "Quick-Start Guide"
+#     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
@@ -10,3 +10,33 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+# main links
+main:
+  - title: "Home"
+    url: https://jeonhyeryung.github.io/ # 블로그 HOME 바로가기
+  - title: "About"
+    url: /about/ #_pages/about.md 연결
+  - title: "GitHub"
+    url: https://github.com/Jeonhyeryung # 깃허브 바로가기 (본인 깃허브로 변경)
+sidebar-category:
+  - title: ":📂 AI"
+    children:
+      - title: "CV"
+        url: "/CV"
+        category: "CV"
+      - title: "LLM"
+        url: "/LLM"
+        category: "LLM"
+      - title: "Multimodal"
+        url: "/Multimodal"
+        category: "Multimodal"
+  - title: ":📂 Data Engineering"
+    children:
+      - title: "SQL"
+        url: "/SQL"
+        category: "SQL"
+  - title: ":📂 Careers"
+    children:
+      - title: "이모저모"
+        url: "/etc"
+        category: "etc"
